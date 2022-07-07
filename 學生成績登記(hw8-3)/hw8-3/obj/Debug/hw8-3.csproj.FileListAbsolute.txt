@@ -1,0 +1,18 @@
+D:\Users\User\Documents\Visual Studio 2015\視窗\hw8-3\hw8-3\bin\Debug\hw8-3.exe.config
+D:\Users\User\Documents\Visual Studio 2015\視窗\hw8-3\hw8-3\obj\Debug\hw8-3.csprojResolveAssemblyReference.cache
+D:\Users\User\Documents\Visual Studio 2015\視窗\hw8-3\hw8-3\bin\Debug\hw8-3.exe
+D:\Users\User\Documents\Visual Studio 2015\視窗\hw8-3\hw8-3\bin\Debug\hw8-3.pdb
+D:\Users\User\Documents\Visual Studio 2015\視窗\hw8-3\hw8-3\obj\Debug\hw8-3.exe
+D:\Users\User\Documents\Visual Studio 2015\視窗\hw8-3\hw8-3\obj\Debug\hw8-3.pdb
+C:\Users\林蔚瀅\Desktop\hw8-3\hw8-3\hw8-3\bin\Debug\hw8-3.exe.config
+C:\Users\林蔚瀅\Desktop\hw8-3\hw8-3\hw8-3\obj\Debug\hw8-3.exe
+C:\Users\林蔚瀅\Desktop\hw8-3\hw8-3\hw8-3\obj\Debug\hw8-3.pdb
+C:\Users\林蔚瀅\Desktop\hw8-3\hw8-3\hw8-3\bin\Debug\hw8-3.exe
+C:\Users\林蔚瀅\Desktop\hw8-3\hw8-3\hw8-3\bin\Debug\hw8-3.pdb
+C:\Users\林蔚瀅\Desktop\hw8-3\hw8-3\hw8-3\obj\Debug\hw8-3.csprojResolveAssemblyReference.cache
+D:\Users\User\Desktop\hw8-3\hw8-3\bin\Debug\hw8-3.exe.config
+D:\Users\User\Desktop\hw8-3\hw8-3\obj\Debug\hw8-3.exe
+D:\Users\User\Desktop\hw8-3\hw8-3\obj\Debug\hw8-3.pdb
+D:\Users\User\Desktop\hw8-3\hw8-3\bin\Debug\hw8-3.exe
+D:\Users\User\Desktop\hw8-3\hw8-3\bin\Debug\hw8-3.pdb
+D:\Users\User\Desktop\hw8-3\hw8-3\obj\Debug\hw8-3.csprojResolveAssemblyReference.cache
