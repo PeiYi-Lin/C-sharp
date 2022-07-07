@@ -1,0 +1,6 @@
+D:\Users\User\Documents\Visual Studio 2015\視窗\hw9-2\hw9-2\bin\Debug\hw9-2.exe.config
+D:\Users\User\Documents\Visual Studio 2015\視窗\hw9-2\hw9-2\bin\Debug\hw9-2.exe
+D:\Users\User\Documents\Visual Studio 2015\視窗\hw9-2\hw9-2\bin\Debug\hw9-2.pdb
+D:\Users\User\Documents\Visual Studio 2015\視窗\hw9-2\hw9-2\obj\Debug\hw9-2.csprojResolveAssemblyReference.cache
+D:\Users\User\Documents\Visual Studio 2015\視窗\hw9-2\hw9-2\obj\Debug\hw9-2.exe
+D:\Users\User\Documents\Visual Studio 2015\視窗\hw9-2\hw9-2\obj\Debug\hw9-2.pdb
